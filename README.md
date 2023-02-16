@@ -10,5 +10,6 @@
 
 5. 2023.01.10~ 2023.01.10  물류 유통량 예측 경진대회 - Catboost Regressor + XGboost Regressor 점수 6.1476428837
 
-6. 2023.01.10~ 2023.01.26 제주도 도로 교통량 예측 AI 경진대회 - lightGbm + XGBoost + RandomizedSearchCv +  최종순위 388/1583 점수 4.4607534548
-https://colab.research.google.com/github/dyjs-js/DaconStudy/blob/main/dacon/JejuTraffic/JejuTrafficFinal.ipynb
+6. 2023.01.10~ 2023.01.26 제주도 도로 교통량 예측 AI 경진대회 - lightGbm + XGBoost + RandomizedSearchCv +  최종순위 388/1583 점수 4.46
+
+
