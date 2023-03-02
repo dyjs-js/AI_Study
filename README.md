@@ -17,3 +17,5 @@
 - lightGbm + XGBoost + RandomizedSearchCv +  최종순위 388/1583 점수 4.46
 
 
+### 7. 2023.03.02 건설기계 오일 상태 분류 AI 경진대회
+- Knowledge Distillation 최종순위 208/1185 점수 0.557661 
