@@ -2,6 +2,9 @@
 
 ### 1. 2022.10~ 와인품질분류 
 - LightGBM model - 최종순위 168/2018 점수0.689
+- 링크: 
+
+ 
 
 ### 2. 2022.11 서울따릉이
 
@@ -19,3 +22,6 @@
 
 ### 7. 2023.03.02 건설기계 오일 상태 분류 AI 경진대회
 - Knowledge Distillation 최종순위 208/1185 점수 0.557661 
+- 링크 : <a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/dyjs-js/DaconStudy/blob/main/dacon/ConstuctionMachine/ConstuctionMachineOil.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
